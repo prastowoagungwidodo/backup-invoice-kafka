@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "maja.rabbitmq.queue.merchant",
+      "type": "java.lang.String",
+      "description": "Merchant queue name"
+    },
+    {
+      "name": "maja.rabbitmq.queue.invoice",
+      "type": "java.lang.String",
+      "description": "Invoice queue name"
+    },
+    {
+      "name": "maja.rabbitmq.queue.reply-to",
+      "type": "java.lang.String",
+      "description": "Reply-to queue"
+    }
+  ]
+}
